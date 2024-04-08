@@ -1,0 +1,16 @@
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box-view{
+    width: 600px;
+    background-color: antiquewhite;
+    padding: 50px ;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 30px;
+    text-align: center;
+}   
